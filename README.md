@@ -2,5 +2,6 @@
 
 rust hello world with dockerfile
 
-`build` - build and run 
+`build` - build and run
+
 `run` - run 
